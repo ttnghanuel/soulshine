@@ -1,0 +1,102 @@
+.blog-page .blog-page__heading h4 {
+  font-size: 4.8rem;
+  line-height: 125%; /* 125% */
+  letter-spacing: -0.192rem;
+  margin-top: 4.8rem;
+  margin-bottom: 2rem;
+}
+
+.blog-page .blog-page__heading p {
+  font-size: 2rem;
+  line-height: 3rem; /* 150% */
+  letter-spacing: 0.06rem;
+  margin-bottom: 5rem;
+}
+
+.blog-page .blog-page__heading .blog-page__heading__blog-post img {
+  width: 100%;
+  height: 40rem;
+  object-fit: cover;
+  margin-bottom: 3rem;
+}
+
+.blog-page .blog-page__heading .blog-page__heading__blog-post__title {
+  font-size: 3.2rem;
+  line-height: 4.2rem; /* 131.25% */
+  letter-spacing: -0.032rem;
+}
+
+.blog-page .blog-page__heading .blog-page__heading__blog-post__time {
+  color: var(--neutral-60, #717171);
+  font-size: 2rem;
+  line-height: 3rem; /* 150% */
+  letter-spacing: 0.06rem;
+  margin-bottom: 4.8rem;
+}
+
+.blog-page .blog-page__list {
+  padding-top: 4.8rem;
+  padding-bottom: 4.8rem;
+}
+
+.blog-page .blog-page__list__blog-post {
+  border-top: 1px solid #b8b8b8;
+  padding: 3rem 0;
+  color: #333;
+}
+
+.blog-page .blog-page__list__blog-post img {
+  width: 20rem;
+  height: 20rem;
+  margin-right: 5rem;
+  object-fit: cover;
+  flex: none;
+}
+
+.blog-page .blog-page__list__blog-post__title {
+  font-size: 3.2rem;
+  line-height: 6.4rem; /* 152.381% */
+  letter-spacing: -0.042rem;
+}
+
+.blog-page .blog-page__list__blog-post__time {
+  color: #717171;
+  font-size: 1.5rem;
+  line-height: 3rem; /* 150% */
+  letter-spacing: 0.06rem;
+}
+
+@media (max-width: 650px) {
+  .blog-page .blog-page__heading .blog-page__heading__blog-post img {
+    height: 30rem;
+  }
+  .blog-page .blog-page__heading .blog-page__heading__blog-post__title {
+    font-size: 2.7rem;
+    line-height: 140%;
+  }
+  .blog-page .blog-page__list__blog-post img {
+    width: 15rem;
+    height: 15rem;
+  }
+  .blog-page .blog-page__list__blog-post__title {
+    font-size: 2.7rem;
+    line-height: 140%;
+    letter-spacing: -0.042rem;
+  }
+}
+
+@media (max-width: 450px) {
+  .blog-page .blog-page__heading .blog-page__heading__blog-post img {
+    height: 20rem;
+  }
+  .blog-page .blog-page__heading .blog-page__heading__blog-post__title {
+    font-size: 2.2rem;
+  }
+  .blog-page .blog-page__list__blog-post img {
+    width: 10rem;
+    height: 10rem;
+  }
+  .blog-page .blog-page__list__blog-post__title {
+    font-size: 2.2rem;
+  }
+}

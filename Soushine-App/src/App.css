@@ -1,0 +1,157 @@
+:root {
+  --soul-shine-primary: #eb6d42;
+  --soul-shine-primary-dark: #af3027;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: #fbf8f0;
+  line-height: 160%;
+  letter-spacing: 0.042rem;
+  color: #000;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+  accent-color: var(--soul-shine-primary);
+  cursor: pointer;
+}
+
+.font-cormorant {
+  font-family: "Cormorant Garamond", serif !important;
+}
+
+.font-open-sans {
+  font-family: "Open Sans", sans-serif !important;
+}
+
+.font-zilla {
+  font-family: "Zilla Slab", serif !important;
+}
+
+.bg-ss {
+  background: var(--soul-shine-primary) !important;
+}
+
+.bg-ss-dark {
+  background: var(--soul-shine-primary-dark) !important;
+}
+
+.border-ss {
+  border-color: var(--soul-shine-primary) !important;
+}
+
+.bg-transparent {
+  background: transparent !important;
+}
+
+.text-ss {
+  color: var(--soul-shine-primary) !important;
+}
+
+.text-ss-dark {
+  color: var(--soul-shine-primary-dark) !important;
+}
+
+.text-hover-ss {
+  transition: color 0.15s linear;
+}
+
+.text-hover-ss:hover {
+  color: var(--soul-shine-primary) !important;
+}
+
+img.img-hover-ss {
+  transition: filter 0.15s linear;
+}
+
+img.img-hover-ss:hover {
+  filter: invert(55%) sepia(16%) saturate(1991%) hue-rotate(328deg) brightness(93%) contrast(98%) !important;
+}
+
+.seperate {
+  height: 0.4rem;
+  position: relative;
+  background: #d9d9d9;
+}
+
+.seperate::after {
+  content: "";
+  display: block;
+  width: 50%;
+  height: 100%;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  background: #000;
+}
+
+.btn-ss {
+  display: block;
+  background: var(--soul-shine-primary-dark) !important;
+  color: #fff !important;
+  border: none !important;
+  transition: all 0.15s linear;
+  border-radius: 1.6rem;
+}
+
+.btn-ss:not(.disabled):hover {
+  background: #60201c !important;
+}
+
+.btn-outline-ss {
+  display: block;
+  background: transparent !important;
+  border: 1px solid var(--soul-shine-primary) !important;
+  color: #000 !important;
+  transition: all 0.15s linear;
+  border-radius: 1.6rem;
+}
+
+.btn-outline-ss:not(.disabled):hover {
+  background: var(--soul-shine-primary) !important;
+}
+
+.fw-300 {
+  font-weight: 300 !important;
+}
+
+.fw-400 {
+  font-weight: 400 !important;
+}
+
+.fw-500 {
+  font-weight: 500 !important;
+}
+
+.fw-600 {
+  font-weight: 600 !important;
+}
+
+.fw-700 {
+  font-weight: 700 !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.admin-page {
+  font-size: 1.6rem !important;
+}

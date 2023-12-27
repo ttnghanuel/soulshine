@@ -1,0 +1,43 @@
+.topbar button {
+  margin: 0 1.6rem;
+}
+
+.topbar button:last-child {
+  margin-right: 0;
+}
+
+.topbar button:first-child {
+  margin-left: 0;
+}
+
+.topbar button img {
+  width: 2.4rem;
+  height: 2.4rem;
+}
+
+.topbar .topbar__login-btn {
+  padding: 1.2rem 2.4rem;
+  font-size: 1.4rem;
+  border: 1px solid #0c0d12;
+}
+
+.topbar .topbar__cart-btn {
+  position: relative;
+}
+
+.topbar .topbar__cart-btn .topbar__cart-btn__quantity {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translate(-25%, 50%);
+  z-index: 2;
+}
+
+.topbar .topbar__cart-btn .topbar__cart-btn__quantity:hover ~ img {
+  filter: invert(55%) sepia(16%) saturate(1991%) hue-rotate(328deg) brightness(93%) contrast(98%) !important;
+}

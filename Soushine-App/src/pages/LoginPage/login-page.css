@@ -1,0 +1,84 @@
+.login-page__heading {
+  font-size: 4.8rem;
+  line-height: 160%; /* 7.68rem */
+  letter-spacing: 0.144rem;
+  padding: 4.8rem 0;
+  background: #ffc679;
+}
+
+.login-page__form {
+  padding: 9.8rem 2rem;
+  width: fit-content;
+}
+
+.login-page__form input {
+  width: 50rem;
+  height: 5rem;
+  font-size: 1.6rem;
+  line-height: 160%; /* 3.2rem */
+  letter-spacing: 0.06rem;
+  padding: 0 1.8rem;
+  outline: none;
+  border: 1px solid #000;
+  border-radius: 0.7rem;
+  transition: all 0.1s linear;
+}
+
+.login-page__form input:first-child {
+  margin-bottom: 2.8rem;
+}
+
+.login-page__form input:focus {
+  border: 1px solid var(--soul-shine-primary);
+}
+
+.login-page__forgot-password {
+  margin-top: 1.4rem;
+  font-size: 1.6rem;
+  line-height: 100%; /* 1.6rem */
+  letter-spacing: 0.016rem;
+  text-decoration: none;
+}
+
+.login-page__forgot-password:hover {
+  text-decoration: underline;
+}
+
+.login-page__btn-submit {
+  padding: 0 8rem;
+  font-size: 2rem;
+  line-height: 160%; /* 3.2rem */
+  letter-spacing: 0.06rem;
+  margin-top: 2.8rem;
+  border-radius: 0.7rem;
+  height: 5rem;
+}
+
+.login-page__redirect-signup {
+  margin-top: 2.4rem;
+  font-size: 1.8rem;
+  line-height: 160%; /* 2.88rem */
+  letter-spacing: 0.018rem;
+}
+
+.login-page__redirect-signup a {
+  text-decoration: none;
+}
+
+.login-page__redirect-signup a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 575px) {
+  .login-page__form {
+    width: 100%;
+  }
+  .login-page__form input {
+    width: 100%;
+  }
+  .login-page__btn-submit {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}

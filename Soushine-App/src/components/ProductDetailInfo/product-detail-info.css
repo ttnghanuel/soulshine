@@ -1,0 +1,131 @@
+.detail-product-info__product-name {
+  font-size: 4.4rem;
+  line-height: 160%; /* 7.04rem */
+  letter-spacing: 0.132rem;
+}
+
+.detail-product-info__price--active {
+  font-size: 4.4rem;
+  line-height: 160%; /* 7.04rem */
+  letter-spacing: 0.132rem;
+}
+
+.detail-product-info__price--disable {
+  color: var(--dark-50, #9e9ea0);
+  font-size: 2rem;
+  line-height: 160%; /* 3.2rem */
+  letter-spacing: 0.06rem;
+  padding-top: 1rem;
+}
+
+.detail-product-info__rating {
+  font-size: 2.4rem;
+  line-height: 160%; /* 3.84rem */
+  letter-spacing: 0.072rem;
+  margin: 1.2rem 0;
+}
+
+.detail-product-info__rating span {
+  font-size: 1.6rem;
+  line-height: 160%; /* 2.56rem */
+  letter-spacing: 0.048rem;
+}
+
+.detail-product-info__quantity {
+  border: 1px solid var(--soul-shine-primary);
+  font-size: 2rem;
+  line-height: 160%; /* 3.2rem */
+  letter-spacing: 0.06rem;
+  margin-right: 0.8rem;
+}
+
+.detail-product-info__quantity button {
+  padding: 1.6rem 2rem;
+}
+
+.detail-product-info__quantity span {
+  width: 40px;
+}
+
+.detail-product-info__add-cart {
+  padding: 1.6rem 4rem;
+  font-size: 2rem;
+  line-height: 160%; /* 3.2rem */
+  letter-spacing: 0.06rem;
+}
+
+.detail-product-info__description,
+.detail-product-info__ingredients,
+.detail-product-info__how-to-use,
+.detail-product-info__how-to-feel {
+  margin-top: 3.6rem;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid var(--soul-shine-primary);
+}
+
+.detail-product-info__description h6,
+.detail-product-info__ingredients h6,
+.detail-product-info__how-to-use h6,
+.detail-product-info__how-to-feel h6 {
+  font-size: 3.2rem;
+  line-height: 160%; /* 5.12rem */
+  letter-spacing: 0.096rem;
+  position: relative;
+}
+
+.detail-product-info__description p,
+.detail-product-info__ingredients p,
+.detail-product-info__how-to-use p,
+.detail-product-info__how-to-feel p {
+  font-size: 1.4rem;
+  line-height: 160%; /* 2.24rem */
+  letter-spacing: 0.042rem;
+  max-height: 0px;
+  transition: all 0.15s linear;
+  overflow: hidden;
+}
+
+.plus-icon,
+.minus-icon {
+  display: block;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  cursor: pointer;
+}
+
+.plus-icon::before {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 1px;
+  background: var(--soul-shine-primary);
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  border-radius: 10px;
+}
+
+.plus-icon::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 1px;
+  background: var(--soul-shine-primary);
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%) rotate(90deg);
+  border-radius: 10px;
+}
+
+.minus-icon::before {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 1px;
+  background: var(--soul-shine-primary);
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  border-radius: 10px;
+}

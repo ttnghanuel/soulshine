@@ -1,0 +1,9 @@
+.admin-update-product-page input {
+  outline: none !important;
+}
+
+.admin-update-product-page input:focus {
+  border-color: var(--soul-shine-primary) !important;
+  box-shadow: none !important;
+  transition: border-color 0.2s linear;
+}

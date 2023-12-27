@@ -1,0 +1,22 @@
+.shop-page__main {
+  padding: 6.8rem 0;
+}
+
+.shop-page__main h6 {
+  font-size: 2.4rem;
+  line-height: 160%; /* 3.84rem */
+  letter-spacing: 0.072rem;
+  margin-bottom: 4rem;
+}
+
+.shop-page__sort-btn {
+  font-size: 2rem;
+  line-height: 160%; /* 3.2rem */
+  letter-spacing: 0.06rem;
+  margin-bottom: 4rem;
+  padding: 0.6rem 3rem;
+}
+
+.shop-page__sort-btn img {
+  margin-left: 0.9rem;
+}

@@ -1,0 +1,343 @@
+[
+  {
+    "img": "http://localhost:8080/images/astrological_storming.png",
+    "imgHover": "http://localhost:8080/images/astrological_storming_1.png",
+    "imgList": [
+      "http://localhost:8080/images/astrological_storming_2.png",
+      "http://localhost:8080/images/astrological_storming_3.png",
+      "http://localhost:8080/images/astrological_storming_4.png"
+    ],
+    "productName": "Astrological Storming",
+    "orgPrice": 26,
+    "salePrice": 22,
+    "description": "If it ever feels like things are going haywire, burn this candle for instant satisfaction. Astrological Storming opens with light hints of apple and pear, followed by exotic violet notes and rich base notes of sandalwood and incense.",
+    "summary": "Smells like full moons and mercury in retrograde.",
+    "howToUse": "When cosmic chaos ensues, ignite Astrological Storming for instant relief. Light the candle in a quiet space and let the unique blend of apple, pear, violet, sandalwood, and incense restore balance. Burn for 2-3 hours during celestial uncertainties.",
+    "howToFeel": "Embrace the cosmic energy as the fragrance unfolds. Astrological Storming provides a sense of satisfaction, grounding you in the midst of celestial upheaval. Experience the soothing effect as the aroma takes you on a celestial journey.",
+    "ingredients": "A cosmic blend featuring apple, pear, exotic violet, grounding sandalwood, and mystical incense."
+  },
+  {
+    "img": "http://localhost:8080/images/calming_escape.png",
+    "imgHover": "http://localhost:8080/images/calming_escape_1.png",
+    "imgList": [
+      "http://localhost:8080/images/calming_escape_2.png",
+      "http://localhost:8080/images/calming_escape_3.png",
+      "http://localhost:8080/images/calming_escape_4.png",
+      "http://localhost:8080/images/calming_escape_5.png"
+    ],
+    "productName": "Calming Escape",
+    "orgPrice": 24,
+    "salePrice": 20,
+    "description": "Drift away from the hustle and bustle of life with the Calming Escape fragrance from Soulshine. Each deep breath brings a sense of tranquility, reducing stress and creating a relaxing environment for the soul.",
+    "summary": "Embark on a serene journey with Calming Escape.",
+    "howToUse": "Create your oasis of serenity by placing Calming Escape in a quiet space. Light the wick and allow the soothing fragrance to fill the room. For optimal results, burn the candle for 1-2 hours at a time.",
+    "howToFeel": "As the tranquil scent envelops you, feel the weight of stress lift from your shoulders. Breathe deeply and let the calming aroma transport you to a place of peace and relaxation.",
+    "ingredients": "A proprietary blend of essential oils, including lavender, chamomile, and sandalwood, carefully crafted to induce a sense of calm."
+  },
+  {
+    "img": "http://localhost:8080/images/chamomile_bliss.png",
+    "imgHover": "http://localhost:8080/images/chamomile_bliss_1.png",
+    "imgList": [
+      "http://localhost:8080/images/chamomile_bliss_2.png",
+      "http://localhost:8080/images/chamomile_bliss_3.png",
+      "http://localhost:8080/images/chamomile_bliss_4.png"
+    ],
+    "productName": "Chamomile Bliss",
+    "orgPrice": 24,
+    "salePrice": 18,
+    "description": "Indulge in the gentle embrace of Tranquil Chamomile Bliss – a delicately scented candle designed to alleviate stress and banish worries. Crafted from pure Chamomile essential oil, this candle creates an atmosphere of serenity, making it the perfect retreat for relaxation and rejuvenation.",
+    "summary": "Stress relief in every soothing scent.",
+    "howToUse": "Create a haven of tranquility by lighting Chamomile Bliss. Burn this delicately scented candle when stress and worries weigh you down. Allow it to diffuse for at least 2 hours to experience the full stress-relieving benefits.",
+    "howToFeel": "Indulge in the gentle embrace of Chamomile Bliss as the pure Chamomile essential oil works its magic. Feel the tension melt away and embrace a serene atmosphere that promotes relaxation and rejuvenation.",
+    "ingredients": "Crafted from pure Chamomile essential oil, creating a soothing and stress-relieving ambiance."
+  },
+  {
+    "img": "http://localhost:8080/images/coffee_bread.png",
+    "imgHover": "http://localhost:8080/images/coffee_bread_1.png",
+    "imgList": [
+      "http://localhost:8080/images/coffee_bread_2.png",
+      "http://localhost:8080/images/coffee_bread_3.png",
+      "http://localhost:8080/images/coffee_bread_4.png"
+    ],
+    "productName": "Coffee Bread",
+    "orgPrice": 28,
+    "salePrice": null,
+    "description": "Whether you need an excuse to daydream or a reason to focus, Coffee Break is here to help. A rich blend of french roast, coconut, and shea creates space for complexity and deep thoughts, while notes of vanilla, sugar cane, and candied praline add a touch of sweetness for an extra boost.",
+    "summary": "Smells like procrastination and inspiration.",
+    "howToUse": "Engage your senses and find inspiration with Coffee Break. Light the candle during moments of contemplation or focus. Let the rich blend of French roast, coconut, and shea create an environment for deep thoughts. Burn for 2-3 hours to enhance your mental space.",
+    "howToFeel": "Whether you're daydreaming or seeking focus, Coffee Break provides a space for both. The sweet touch of vanilla, sugar cane, and candied praline adds a delightful sweetness to the complexity of the fragrance.",
+    "ingredients": "Whether you're daydreaming or A rich combination of French roast, coconut, shea, vanilla, sugar cane, and candied praline. focus, Coffee Break provides a space for both. The sweet touch of vanilla, sugar cane, and candied praline adds a delightful sweetness to the complexity of the fragrance."
+  },
+  {
+    "img": "http://localhost:8080/images/coffee_table.png",
+    "imgHover": "http://localhost:8080/images/coffee_table_1.png",
+    "imgList": [
+      "http://localhost:8080/images/coffee_table_2.png",
+      "http://localhost:8080/images/coffee_table_3.png",
+      "http://localhost:8080/images/coffee_table_4.png"
+    ],
+    "productName": "Coffee Table",
+    "orgPrice": 27,
+    "salePrice": null,
+    "description": "Elegant with an edge, Coffee Table Book captures the essence of modern living. Orange flower and grapefruit drift above a heart of vetiver accompanied by notes of refined spices and oakmoss.",
+    "summary": "Smells like style icons and aspirational lifestyles.",
+    "howToUse": "Elevate your living space with the sophistication of Coffee Table Book. Light the candle to release the essence of orange flower, grapefruit, vetiver, refined spices, and oakmoss. Burn for 2-3 hours during moments of style and inspiration.",
+    "howToFeel": "Experience the essence of aspirational living with this elegant fragrance. Coffee Table Book adds an edge to your surroundings, invoking the spirit of modernity and refinement.",
+    "ingredients": "A luxurious combination of orange flower, grapefruit, vetiver, spices, and oakmoss."
+  },
+  {
+    "img": "http://localhost:8080/images/forest_bathing.png",
+    "imgHover": "http://localhost:8080/images/forest_bathing_1.png",
+    "imgList": [
+      "http://localhost:8080/images/forest_bathing_2.png",
+      "http://localhost:8080/images/forest_bathing_3.png",
+      "http://localhost:8080/images/forest_bathing_4.png"
+    ],
+    "productName": "Forest Bathing",
+    "orgPrice": 29,
+    "salePrice": null,
+    "description": "Just like a walk through the woods, Forest Bathing is both tranquil and energizing. This scent layers a floral blend of jasmine, lavender, and orange flowers with a clean citrus musk.",
+    "summary": "Smells like clear minds and awakened spirits.",
+    "howToUse": "Immerse yourself in nature's embrace with Forest Bathing. Light the candle in a serene space, allowing the blend of jasmine, lavender, orange flowers, and citrus musk to transport you. Burn for at least 2 hours to capture the essence of a tranquil woodland stroll.",
+    "howToFeel": "Feel the clearing of your mind and the awakening of spirits as the floral and citrus notes envelop you. Forest Bathing offers a harmonious balance, creating an energizing yet peaceful atmosphere.",
+    "ingredients": "A refreshing blend of jasmine, lavender, orange flowers, and clean citrus musk."
+  },
+  {
+    "img": "http://localhost:8080/images/home_cycle.png",
+    "imgHover": "http://localhost:8080/images/home_cycle_1.png",
+    "imgList": [
+      "http://localhost:8080/images/home_cycle_2.png",
+      "http://localhost:8080/images/home_cycle_3.png",
+      "http://localhost:8080/images/home_cycle_4.png"
+    ],
+    "productName": "Home Cycle",
+    "orgPrice": 26,
+    "salePrice": null,
+    "description": "Get moving with this uplifting fragrance. A zesty medley of cassis, bergamot, and rosemary give you instant motivation to climb one more hill or do one last sprint. Base notes of patchouli, amber, and clove bring balance and fortitude to this exhilarating aroma.",
+    "summary": "Smells like wheels spinning on the road to nowhere.",
+    "howToUse": "Ignite motivation and energy with Home Cycle. Light the candle when you need an extra push. Let the zesty medley of cassis, bergamot, and rosemary invigorate your space. Burn for 2-3 hours for an uplifting experience",
+    "howToFeel": "Experience a burst of motivation as the fragrance fills the air. Home Cycle's base notes of patchouli, amber, and clove bring balance and fortitude to this exhilarating aroma.",
+    "ingredients": "Cassis, bergamot, rosemary, patchouli, amber, and clove"
+  },
+  {
+    "img": "http://localhost:8080/images/inner_peace.png",
+    "imgHover": "http://localhost:8080/images/inner_peace_1.png",
+    "imgList": [
+      "http://localhost:8080/images/inner_peace_2.png",
+      "http://localhost:8080/images/inner_peace_3.png",
+      "http://localhost:8080/images/inner_peace_4.png"
+    ],
+    "productName": "Inner Peace",
+    "orgPrice": 26,
+    "salePrice": 22,
+    "description": "Inner Peace is not just a scent; it's a journey to self-discovery. This gentle aroma combines layers of scents to create a serene space, helping you connect with your inner self and seek internal tranquility.",
+    "summary": "Discover tranquility within with Inner Peace.",
+    "howToUse": "Ignite the flame of self-discovery by lighting Inner Peace in a quiet corner. Let the fragrance unfold as you meditate or reflect. Burn for at least 2 hours to fully immerse yourself in the tranquil journey.",
+    "howToFeel": "Connect with your inner self as the layers of scent unfold. Allow the gentle aroma to guide you to a state of internal tranquility, creating a space for mindfulness and self-awareness.",
+    "ingredients": "A harmonious fusion of frankincense, myrrh, and subtle floral notes to evoke a sense of inner peace."
+  },
+  {
+    "img": "http://localhost:8080/images/laundry_day.png",
+    "imgHover": "http://localhost:8080/images/laundry_day_1.png",
+    "imgList": [
+      "http://localhost:8080/images/laundry_day_2.png",
+      "http://localhost:8080/images/laundry_day_3.png",
+      "http://localhost:8080/images/laundry_day_4.png"
+    ],
+    "productName": "Laundry Day",
+    "orgPrice": 41,
+    "salePrice": 32,
+    "description": "Fresh linens make the tedious process of wash and dry worthwhile. Delicate top notes of rose, jasmine, and lily float above a powdery base with a hint of sweet musk for understated sophistication.",
+    "summary": "Smells like a week of folding.",
+    "howToUse": "Transform your space into a haven of understated sophistication with Laundry Day. Light the candle to release the delicate notes of rose, jasmine, lily, and sweet musk. Burn for 3-4 hours, turning the mundane into a luxurious experience.",
+    "howToFeel": "Allow the fresh linen notes to elevate the ordinary. Laundry Day brings a touch of refinement to the tedious process of wash and dry, creating an atmosphere of understated luxury.",
+    "ingredients": "A powdery blend of rose, jasmine, lily, and a hint of sweet musk."
+  },
+  {
+    "img": "http://localhost:8080/images/love_spell.png",
+    "imgHover": "http://localhost:8080/images/love_spell_1.png",
+    "imgList": [
+      "http://localhost:8080/images/love_spell_2.png",
+      "http://localhost:8080/images/love_spell_3.png",
+      "http://localhost:8080/images/love_spell_4.png"
+    ],
+    "productName": "Love Spell",
+    "orgPrice": 24,
+    "salePrice": 20,
+    "description": "Love Spell's fragrance is the secret to allure and romance. With the perfect blend of distinctive ingredients, it brings a sweet and intimate atmosphere, captivating the heart and awakening feelings of love.",
+    "summary": "Cast a spell of romance with Love Spell.",
+    "howToUse": "Set the mood for romance by lighting Love Spell in the evening. Allow the enchanting aroma to fill the air, creating an intimate atmosphere. Burn for 1-2 hours to enhance the romantic ambiance.",
+    "howToFeel": "Experience the allure and magic of love as the sweet fragrance captivates your senses. Let Love Spell kindle the flames of passion and create a space for shared moments.",
+    "ingredients": "A captivating blend of rose, jasmine, and vanilla, designed to evoke feelings of love and intimacy."
+  },
+  {
+    "img": "http://localhost:8080/images/Meditation.png",
+    "imgHover": "http://localhost:8080/images/Meditation_1.png",
+    "imgList": [
+      "http://localhost:8080/images/Meditation_2.png",
+      "http://localhost:8080/images/Meditation_3.png",
+      "http://localhost:8080/images/Meditation_4.png"
+    ],
+    "productName": "Meditation",
+    "orgPrice": 32,
+    "salePrice": null,
+    "description": "Light this candle and watch your worries melt away. Misted heliotrope, grey quartz, and amber bring clarity and fresh perspectives. Smoky base notes of palo santo and black cedar add depth and texture to the fragrance for a modern take on mindfulness.",
+    "summary": "Smells like mindless mindfulness.",
+    "howToUse": "Achieve mindfulness effortlessly with Meditation. Light the candle to watch your worries dissipate. Allow the misted heliotrope, grey quartz, and amber to bring fresh perspectives. Burn for 1-2 hours during moments of quiet contemplation.",
+    "howToFeel": "Experience the modern take on mindfulness as the smoky base notes of palo santo and black cedar add depth. Meditation invites clarity and a sense of calmness to your space, creating a sanctuary for the mind.",
+    "ingredients": "Misted heliotrope, grey quartz, amber, palo santo, and black cedar."
+  },
+  {
+    "img": "http://localhost:8080/images/midnight_moonlight.png",
+    "imgHover": "http://localhost:8080/images/midnight_moonlight_1.png",
+    "imgList": [
+      "http://localhost:8080/images/midnight_moonlight_2.png",
+      "http://localhost:8080/images/midnight_moonlight_3.png",
+      "http://localhost:8080/images/midnight_moonlight_4.png"
+    ],
+    "productName": "Midnight Moonlight",
+    "orgPrice": 36,
+    "salePrice": 32,
+    "description": "Experience all of the glitz and glam holiday festivities can offer with Midnight Moonlight. A sweet and sophisticated blend of plum, cabernet grape, and dewy violet float above a warm base of sandalwood, vanilla, and musk.",
+    "summary": "Smells like repeat resolutions and wishful thinking.",
+    "howToUse": "Celebrate the holidays in style with Midnight Moonlight. Light the candle to release the sweet and sophisticated blend of plum, cabernet grape, and dewy violet. Burn for 2-3 hours to create a festive atmosphere filled with glamour and glitz",
+    "howToFeel": "Experience the magic of the holiday season as Midnight Moonlight captures the essence of repeat resolutions and wishful thinking. The warm base of sandalwood, vanilla, and musk adds a touch of luxury to your festivities.",
+    "ingredients": "A festive fusion of plum, cabernet grape, dewy violet, sandalwood, vanilla, and musk"
+  },
+  {
+    "img": "http://localhost:8080/images/nourish_burn.png",
+    "imgHover": "http://localhost:8080/images/nourish_burn_1.png",
+    "imgList": [
+      "http://localhost:8080/images/nourish_burn_2.png",
+      "http://localhost:8080/images/nourish_burn_3.png",
+      "http://localhost:8080/images/nourish_burn_4.png"
+    ],
+    "productName": "Nourish Burn",
+    "orgPrice": 37,
+    "salePrice": 33,
+    "description": "The Nourish Burn fragrance is a harmonious blend of warm wood and subtle spices. Designed to nurture the soul, it's the perfect choice for those seeking a cozy and energetic space.",
+    "summary": "Ignite your senses with Nourish Burn.",
+    "howToUse": "Energize your space by lighting Nourish Burn in the morning. Let the warm wood and spice blend awaken your senses. Burn for 3-4 hours to infuse your surroundings with an energetic and cozy vibe.",
+    "howToFeel": "Feel nurtured and invigorated as the harmonious blend envelops you. Nourish Burn creates a comforting environment, perfect for a productive and revitalizing day.",
+    "ingredients": "Warm wood, cinnamon, and a hint of clove, carefully combined to provide a soul-nourishing experience."
+  },
+  {
+    "img": "http://localhost:8080/images/self_care.png",
+    "imgHover": "http://localhost:8080/images/self_care_1.png",
+    "imgList": [
+      "http://localhost:8080/images/self_care_2.png",
+      "http://localhost:8080/images/self_care_3.png",
+      "http://localhost:8080/images/self_care_4.png"
+    ],
+    "productName": "Self Care",
+    "orgPrice": 48,
+    "salePrice": 36,
+    "description": "This aroma is as invigorating as it is relaxing. Awake your senses with vibrant notes of citrus, verbena, and mint leaf. Then relax and unwind with soothing base notes of lavender, moss, and eucalyptus for some much needed serenity.",
+    "summary": "Smells like face masks and do not disturb.",
+    "howToUse": "Revitalize your senses and create a spa-like atmosphere with Self Care. Light the candle during your 'me time.' Let the vibrant notes of citrus, verbena, and mint leaf awaken your senses. Burn for 2-3 hours, followed by relaxation with the soothing base notes.",
+    "howToFeel": "Feel invigorated and relaxed simultaneously as Self Care takes you on a sensory journey. The blend of lavender, moss, and eucalyptus provides a tranquil and serene atmosphere.",
+    "ingredients": "Citrus, verbena, mint leaf, lavender, moss, and eucalyptus."
+  },
+  {
+    "img": "http://localhost:8080/images/snow_day.png",
+    "imgHover": "http://localhost:8080/images/snow_day_1.png",
+    "imgList": [
+      "http://localhost:8080/images/snow_day_2.png",
+      "http://localhost:8080/images/snow_day_3.png",
+      "http://localhost:8080/images/snow_day_4.png"
+    ],
+    "productName": "Snow Day",
+    "orgPrice": 19,
+    "salePrice": null,
+    "description": "This candle will bring you warm and cozy vibes all winter long. Sweet notes of brown sugar, maple, and butterscotch are sprinkled above layers of pecan, vanilla sandalwood and caramel. Snow days have never been so satisfying.",
+    "summary": "Smells like a change of plans and a cup of cocoa.",
+    "howToUse": "Create a warm and cozy winter haven with Snow Day. Light the candle to infuse your space with the sweet notes of brown sugar, maple, butterscotch, and layers of pecan, vanilla sandalwood, and caramel. Burn for 2-3 hours to fully immerse yourself in the comforting vibes.",
+    "howToFeel": "Embrace the winter charm as Snow Day brings the satisfaction of a change of plans and the joy of sipping cocoa by the fire. Let the layers of comforting scents transport you to a cozy cabin in the snow.",
+    "ingredients": "A comforting blend of brown sugar, maple, butterscotch, pecan, vanilla sandalwood, and caramel."
+  },
+  {
+    "img": "http://localhost:8080/images/spiked_&_spiced.png",
+    "imgHover": "http://localhost:8080/images/spiked_&_spiced_1.png",
+    "imgList": [
+      "http://localhost:8080/images/spiked_&_spiced_2.png",
+      "http://localhost:8080/images/spiked_&_spiced_3.png",
+      "http://localhost:8080/images/spiked_&_spiced_4.png"
+    ],
+    "productName": "Spiked_& Spiced",
+    "orgPrice": 41,
+    "salePrice": null,
+    "description": "A modern take on a holiday classic, Spiked & Spiced evokes the festive spirit of mulled wine. A warm and inviting blend of orange, cinnamon, and red currant floats above a deep base of red wine and cedarwood.",
+    "summary": "Smells like friendly pours and holiday cheer.",
+    "howToUse": "Evoke the spirit of holiday cheer with Spiked & Spiced. Light the candle to immerse yourself in the warm and inviting blend of orange, cinnamon, and red currant. Burn for 2-3 hours to create a festive ambiance.",
+    "howToFeel": "Experience a modern twist on a holiday classic as Spiked & Spiced captures the essence of friendly pours and joyful celebrations. The deep base of red wine and cedarwood adds a touch of sophistication to your festivities.",
+    "ingredients": "A festive blend of orange, cinnamon, red currant, red wine, and cedarwood."
+  },
+  {
+    "img": "http://localhost:8080/images/soothing_scent.png",
+    "imgHover": "http://localhost:8080/images/soothing_scent_1.png",
+    "imgList": [
+      "http://localhost:8080/images/soothing_scent_2.png",
+      "http://localhost:8080/images/soothing_scent_3.png",
+      "http://localhost:8080/images/soothing_scent_4.png"
+    ],
+    "productName": "Soothing Scent",
+    "orgPrice": 40,
+    "salePrice": null,
+    "description": "The Soothing Scent combines gentle herbs and fruits to create a delicate aroma. With its soothing and stress-relieving properties, it establishes a pleasant environment, allowing you to relax and embrace moments of tranquility.",
+    "summary": "Immerse yourself in the Soothing Scent.",
+    "howToUse": "Transform any room into a haven of tranquility by lighting Soothing Scent. Allow the delicate aroma to diffuse for at least 2 hours to fully experience its calming effects.",
+    "howToFeel": "Immerse yourself in a cocoon of relaxation as the gentle herbs and fruity notes soothe your senses. Let go of stress and embrace moments of calmness and well-being.",
+    "ingredients": "A delicate fusion of chamomile, lavender, and citrus fruits, creating a soothing and stress-relieving ambiance."
+  },
+  {
+    "img": "http://localhost:8080/images/succedent_garden.png",
+    "imgHover": "http://localhost:8080/images/succedent_garden_1.png",
+    "imgList": [
+      "http://localhost:8080/images/succedent_garden_2.png",
+      "http://localhost:8080/images/succedent_garden_3.png",
+      "http://localhost:8080/images/succedent_garden_4.png"
+    ],
+    "productName": "Succedent Garden",
+    "orgPrice": 26,
+    "salePrice": 22,
+    "description": "A minimalist’s take on a botanical aroma, Succulent Garden captures the alluring blend of cactus flowers and coconut on top of a soothing sandalwood base. Top notes of green and citrus round out the scent.",
+    "summary": "Smells like urban living with a touch of bohemia.",
+    "howToUse": "Transform your living space into a tranquil oasis with Succulent Garden. Light the candle to infuse the room with the captivating blend of cactus flowers and coconut. Burn for 2-3 hours to experience the full depth of this minimalist botanical aroma.",
+    "howToFeel": "Immerse yourself in urban living with a touch of bohemia. Succulent Garden evokes a sense of simplicity and natural allure. The top notes of green and citrus enhance the ambiance, creating a refreshing and inviting atmosphere.",
+    "ingredients": "Crafted with a harmonious blend of cactus flowers, coconut, and a soothing sandalwood base, complemented by top notes of green and citrus."
+  },
+  {
+    "img": "http://localhost:8080/images/winter_frost.png",
+    "imgHover": "http://localhost:8080/images/winter_frost_1.png",
+    "imgList": [
+      "http://localhost:8080/images/winter_frost_2.png",
+      "http://localhost:8080/images/winter_frost_3.png",
+      "http://localhost:8080/images/winter_frost_4.png"
+    ],
+    "productName": "Winter Frost",
+    "orgPrice": 46,
+    "salePrice": 38,
+    "description": "Experience the elegance of Winter Frost Whisper, capturing the essence of frosted pine, harmonized with the cool notes of icy snow. This candle is not just a decoration but also an inspiration for comfort, creating a warm sanctuary in the midst of the chilly winter.",
+    "summary": "Cozy snowscape in a candle.",
+    "howToUse": "Transform your space into a winter wonderland with Winter Frost Whisper. Light the candle to experience the elegance of frosted pine harmonized with cool notes of icy snow. Burn for 2-3 hours to create a warm sanctuary in the midst of the chilly winter.",
+    "howToFeel": "Embrace the cozy snowscape as Winter Frost Whisper captures the essence of winter. Let the fragrance inspire comfort and relaxation, providing a retreat from the cold outside.",
+    "ingredients": "Frosted pine, icy snow, and a harmonious blend of comforting notes for a warm winter sanctuary."
+  },
+  {
+    "img": "http://localhost:8080/images/winter_social.png",
+    "imgHover": "http://localhost:8080/images/winter_social_1.png",
+    "imgList": [
+      "http://localhost:8080/images/winter_social_2.png",
+      "http://localhost:8080/images/winter_social_3.png",
+      "http://localhost:8080/images/winter_social_4.png"
+    ],
+    "productName": "Winter Social",
+    "orgPrice": 38,
+    "salePrice": 30,
+    "description": "Raise a glass at your next holiday soirée. Sparkling notes of orange, prosecco, and pineapple add brightness to any occasion, while apricot, berry, and white woods add a layer of sophistication. Celebrations and libations are in order.",
+    "summary": "Smells like champagne toasts and mistletoe mistakes.",
+    "howToUse": "Elevate your holiday soirées with Winter Social. Light the candle to release the sparkling notes of orange, prosecco, pineapple, apricot, berry, and white woods. Burn for 2-3 hours to add brightness and sophistication to any celebration.",
+    "howToFeel": "Raise a glass and immerse yourself in the festive spirit as Winter Social brings the joy of champagne toasts and the whimsy of mistletoe mistakes. Let the layers of scents enhance your celebrations.",
+    "ingredients": "Sparkling notes of orange, prosecco, pineapple, apricot, berry, and white woods."
+  }
+]

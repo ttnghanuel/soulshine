@@ -1,0 +1,72 @@
+.sign-up-page__heading {
+  font-size: 4.8rem;
+  line-height: 160%; /* 7.68rem */
+  letter-spacing: 0.144rem;
+  padding: 4.8rem 0;
+  background: #ffc679;
+}
+
+.sign-up-page__form {
+  padding: 9.8rem 2rem;
+  width: fit-content;
+}
+
+.sign-up-page__form input {
+  width: 50rem;
+  height: 5rem;
+  font-size: 1.6rem;
+  line-height: 160%; /* 3.2rem */
+  letter-spacing: 0.06rem;
+  padding: 0 1.8rem;
+  outline: none;
+  border: 1px solid #000;
+  border-radius: 0.7rem;
+  transition: all 0.1s linear;
+}
+
+.sign-up-page__form input:not(:last-child) {
+  margin-bottom: 2.8rem;
+}
+
+.sign-up-page__form input:focus {
+  border: 1px solid var(--soul-shine-primary);
+}
+
+.sign-up-page__btn-submit {
+  padding: 0 8rem;
+  font-size: 2rem;
+  line-height: 160%; /* 3.2rem */
+  letter-spacing: 0.06rem;
+  margin-top: 2.8rem;
+  border-radius: 0.7rem;
+  height: 5rem;
+}
+
+.sign-up-page__redirect-signup {
+  margin-top: 2.4rem;
+  font-size: 1.8rem;
+  line-height: 160%; /* 2.88rem */
+  letter-spacing: 0.018rem;
+}
+
+.sign-up-page__redirect-signup a {
+  text-decoration: none;
+}
+
+.sign-up-page__redirect-signup a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 575px) {
+  .sign-up-page__form {
+    width: 100%;
+  }
+  .sign-up-page__form input {
+    width: 100%;
+  }
+  .sign-up-page__btn-submit {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
